@@ -205,31 +205,21 @@ GPT-AI Schema for Marine Use (ChatGPT, Gemini, Copilot)
 "mission_type": "Cyber Counterinsurgency / Narrative Warfare",
 "APIs": {
 "Thinker": {sk-
-proj-6UxruQkS7gv9osyeMLpFZPksJR7TxWO41PU9djNKKrCEY0FypeY5MzfqlBLrkRdP3wZU
-WlyEbnT3BlbkFJO2AK8iQO3laQZpLCFCMr4xh8xWfnojEO8ksh9nAMWq77t0iO9gI5zGGY_LPp
-dPLZ8NoUzfHWIA}
+proj-6Uxr}
 "function": "Analyze patterns, identify misinformation, simulate adversary narratives"
 },
-"Doer": {sk-proj-i7KgZ-
-QFpcoM17udW1ISRZJ21EWC8i07KPKfesBTeEo84DAhUz3WojtkvNxr9X8-
-x_jjGRu_E8T3BlbkFJiJB_TR5sSbk4DpncthQma-fDtPClwJ9OHWf-er-f-
-jdlUzu6mOLT0nCmJlURR-O0rafcxJ1EkA}
+"Doer": {sk-proj-i7KgZ}
 "function": "Generate mission-aligned content, coordinate narrative actions"
 },
 "Controller": {sk-
-proj-0fW8TxA83NSt3LRpNo1lGLGEb6bOAtCDRFr94h8JkLw1YTg_ePE78f4NVDJBU84_zDvw6
-VvyU_T3BlbkFJmM32Mm-8tZu8tM46MwfR1G268ouYLjCQDlQ3fkO7eAkvxvWJWxHOmT91p1
-4IX9edwBog3uQ_cA}
+proj-0fW8}
 "function": "Verify compliance with rules, ethos, and operational guidance"
 },
-"Pulse": {sk-proj-RhBw-
-Ayu6yAzMBWHUYduupxIFHTKGdmotw0KRmQBTy9IasfzOFFPWZAKL2Ey5x3_Kp4gapORtiT3
-BlbkFJNTOaGQ2QeqckmyzAeQGQDwroqS1OHKbyxCaY0URY8iWMnNN4hwyJe7IRO4lheDtb
-hDghv83HkA}
+"Pulse": {sk-proj-RhBw-}
 "function": "Monitor morale, emotional tone, and unit psychological readiness"
 }
 },
-"preferred_tools": ["ChatGPT", "Gemini", "Copilot"],
+"preferred_tools": ["ChatGPT", "Gemini", "Copilot", "Grok", "Claude", "Oliver", "Siri"],
 "operational_style": "Clear, moral, tactical, scalable"
 }
 Marines should think of these tools as digital teammates. They don’t replace leadership
